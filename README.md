@@ -85,6 +85,7 @@ GST: ₹12.25
 
 ---
 ##Project Screenshots
+--
 🧾 Sample Receipt Image
 ![Screenshot 2025-05-26 190302](https://github.com/user-attachments/assets/11aa0855-7dcc-4408-a9aa-356beba2e595)
 🖥️ S3 Bucket Upload Screen
