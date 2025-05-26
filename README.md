@@ -56,7 +56,8 @@ This project is an **automated receipt processing pipeline** built using **AWS s
                │  SES   │─────> Sends summary email
                └────────┘
 ````
---- ## Architecture Diagram 
+--- 
+## Architecture Diagram 
 ![aws layout ](https://github.com/user-attachments/assets/7a5385d6-5863-4645-9908-48a0e38b6307)
 
 
