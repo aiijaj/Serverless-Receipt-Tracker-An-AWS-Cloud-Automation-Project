@@ -84,6 +84,19 @@ GST: ₹12.25
 ```
 
 ---
+##Project Screenshots
+🧾 Sample Receipt Image
+![Screenshot 2025-05-26 190302](https://github.com/user-attachments/assets/11aa0855-7dcc-4408-a9aa-356beba2e595)
+🖥️ S3 Bucket Upload Screen
+ ![Screenshot 2025-05-26 190412](https://github.com/user-attachments/assets/9512367a-0666-4756-a896-b51e55b56495)
+⚙️ Lambda Execution Log (CloudWatch)
+![Screenshot 2025-05-26 190606](https://github.com/user-attachments/assets/251f09c6-01e6-4ebe-8d6f-cbb63714f9e6)
+📊 DynamoDB Entry
+![Screenshot 2025-05-26 190935](https://github.com/user-attachments/assets/1e51341b-da14-4fd4-b6b2-a2b914b73664)
+📧 Email Summary Output
+![Screenshot 2025-05-26 191044](https://github.com/user-attachments/assets/6e234833-4e06-48d8-8034-a76ec6824b0f)
+
+
 
 ## 📦 Setup Instructions
 
